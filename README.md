@@ -2,7 +2,7 @@
 ---
 https://github.com/rtomayko/ronn
 
-```
+```sh
 ronn man/ronn.5.ronn
 
 ronn --html man/markdown.5.ronn
